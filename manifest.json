@@ -1,0 +1,10 @@
+{
+	"id": "mindloom",
+	"name": "MindLoom",
+	"version": "1.0.0",
+	"minAppVersion": "1.7.2",
+	"description": "Weave your notes into interactive mind maps, in a split view or embedded in your notes.",
+	"author": "西山雨",
+	"authorUrl": "https://github.com/XiShanRain",
+	"isDesktopOnly": false
+}
